@@ -1,5 +1,5 @@
-Человечки в master и demo- идентичны
-В вебинтерфейсе коммита:
+Человечки в master и demo - идентичны
+В вебинтерфейсе 4 коммита:
 Merge remote-tracking branch 'origin/boots' into boots_buttons
 Merge remote-tracking branch 'origin/buttons' into boots_buttons
 Merge remote-tracking branch 'origin/hat'
